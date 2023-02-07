@@ -1,0 +1,5 @@
+{
+  "search": {"search_url": "https://www.baidu.com" ,"search_text": "测试开发进大厂","assert_title":"百度热搜"},
+  "search_02": {"search_url": "xxxx" ,"search_text": "xxxx","assert_title":"xxxx"},
+  "search_03": {"search_url": "yyyy" ,"search_text": "yyy","assert_title":"yyyy"}
+}

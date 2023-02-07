@@ -1,0 +1,4 @@
+search:
+  search_url: https://www.baidu.com
+  search_text: 测试开发进大厂
+  assert_title: 百度热搜
